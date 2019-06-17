@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Caitlyn Cook</title>
+</head>
+<body>
+
+<h1>Caitlyn Cook</h1>
+
+<a href= > One</a> <a href= link to site> Two</a> <a href= link to site> Three</a> <a href= link to site> Four</a> 
+
+<h2> Favorite Foods </h2>
+<ul>
+	<li>Chinses</li>
+    <li>Mexican</li>
+    <li>Pizza</li>
+    <li>Ice Cream</li>
+</ul>
+<h2>Acheivements </h2>
+<h4>My Progress in Course (100%)</h4><progress value="100" max="100"></progress>
+<h4> Progress in Speilization capstone (20%) </h4> <progress value="20" max="100"></progress>
+<h4> Progress in Life Goals (45%) </h4> <progress value="45" max="100"></progress>
+
+
+<h2>More About Me</h2>
+<h4>My Childhood</h4>
+<p> I grew up in Republic, Missouri a small town right after springfield! </p>
+<a href=http://www.intro-webdesign.com.>
+<img scr= newlogo.png alt= "Logo" />
+</a> 
+
+</body>
+</html>
